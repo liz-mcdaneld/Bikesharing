@@ -50,7 +50,7 @@ Looking at checkout times by gender, males are significantly higher users of Cit
 
 ### [Trips by Gender (Weekday per Hour)](https://public.tableau.com/views/NYCCitiBikeAnalysis_16606946080770/TripsbyGenderWeekdayperHour?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-Based on gender males are the make a high number of users during the peak hours.
+Based on gender, males are a high number of the users during the peak hours.
 
 ![trips_by_gender_weekhours](https://user-images.githubusercontent.com/103263248/184983060-9108a4d4-a4e3-4609-ac82-b72b699a33d3.png)
 
@@ -80,13 +80,13 @@ Male subscribers are the main users of the NYC CitiBikes and trip duration follo
 
 ## Additional Analysis:
 
-### * [Customer and Subscriber Locations](https://public.tableau.com/views/NYCCitiBikeAnalysis_16606946080770/CustomerVSSubscriber?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+### [Customer and Subscriber Locations](https://public.tableau.com/views/NYCCitiBikeAnalysis_16606946080770/CustomerVSSubscriber?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 Subscribers and Customers are shown as users throughout the city. More customers seem appearing in tourist areas around Central Park and Lower Manhattan, and more subscribers than customers towards the Brooklyn area. Future analysis to include more geographical data to show more trips outside of the main city to see could give more insight into why subscribers are more likely to travel further.
 
 ![Customer_subscriber_map](https://user-images.githubusercontent.com/103263248/184983647-67ff04a7-2a1b-4de7-bc1b-ba20f98f86af.png)
 
-### * [Starting and Ending Locations by Gender](https://public.tableau.com/views/NYCCitiBikeAnalysis_16606946080770/StartingandEndingLoactionsofGenders?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+### [Starting and Ending Locations by Gender](https://public.tableau.com/views/NYCCitiBikeAnalysis_16606946080770/StartingandEndingLoactionsofGenders?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 Males are more likes to start and end trips further away from the city than females or unknown genders are. Future analysis to include more geographical data to show how far of trips males are taking outside the city, as well as if there are more areas outside of NYC that females or unknown genders are using.
 
