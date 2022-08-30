@@ -2,7 +2,7 @@
 
 ## Overview:
 
-Des Moines has requested data be presented for a business proposal. NYC CitiBike data collected from Aungust 2019 is used to review geographical data and data separated by user types, user genders, and recorded trip duration and usage times. This is compiles and analyzed to help Des Moines determine a good business proposal and investment. 
+Des Moines has requested data be presented for a business proposal. NYC CitiBike data collected from August 2019 is used to review geographical data and data separated by user types, user genders, and recorded trip duration and usage times. This is compiles and analyzed to help Des Moines determine a good business proposal and investment. 
 
 ## Purpose:
 
